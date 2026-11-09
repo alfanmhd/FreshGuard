@@ -1,0 +1,17 @@
+Feature,Importance
+units_sold,8213
+stockout_hours,7175
+opening_stock,1205
+temp_c,1123
+sku_id,1082
+price,1017
+day_of_year,1006
+dow,836
+discount_pct,816
+rain_mm,704
+store_id,545
+month,143
+promo_flag,44
+is_holiday,39
+is_weekend,30
+is_pre_holiday,22
